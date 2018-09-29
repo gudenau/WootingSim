@@ -1,0 +1,18 @@
+# Java junk
+*.class
+*.bak
+*.7z
+*.iml
+Java/.idea/*
+Java/target/*
+Java/out/*
+
+# Visual studio junk
+.vs/*
+x86/*
+x64/*
+RGBTest/x64/*
+SimulatedRGB/x64/*
+WootingSimulator/x64/*
+Java/src/main/cpp/SimulatorNatives/x64/*
+*.dll

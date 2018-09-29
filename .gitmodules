@@ -1,0 +1,6 @@
+[submodule "wooting-analog-sdk"]
+	path = wooting-analog-sdk
+	url = https://github.com/WootingKb/wooting-analog-sdk.git
+[submodule "wooting-rgb-sdk"]
+	path = wooting-rgb-sdk
+	url = https://github.com/WootingKb/wooting-rgb-sdk.git
